@@ -102,16 +102,11 @@ ul.second-menu > li:first-child > a::after {
     top: 14px;
 }
 
-main {
-    /* height: 100vh; */
-}
-
 .main-slider-img{
     position: absolute;
     top: 0;
     object-fit: cover;
     object-position: top;
-
 }
 
 .hero-movie{
@@ -127,14 +122,12 @@ main {
     font-size: 64px;
     font-weight: bold;
     padding-bottom: 26px;
-
 }
 
 .hero-movie>p:nth-child(2){
     font-size: 15px;
     font-weight: bold;
-    padding-bottom: 1rem;
-    
+    padding-bottom: 1rem;    
 }
 
 button{
@@ -187,7 +180,6 @@ button{
     background: linear-gradient(277.92deg, rgba(0,0,0,0) 7.66%, rgba(0,0,0,0.88) 89.67%);
 }
 
-
 .blb-p {
     font-size: 20px;
     color: white;
@@ -213,10 +205,8 @@ button{
     transform: scale(1.1);
 }
 
-
 .poster-now-lbls {
     font-size: 16px;
-
 }
 
 .poster-now-lbls>p:first-child {
@@ -350,8 +340,6 @@ nav.nav-mobile {
     cursor: pointer;
 }
 
-
-
 .player {
     position: relative;
     width: 100%;
@@ -423,7 +411,6 @@ nav.nav-mobile {
     display: flex;
     justify-content: center;
     flex-direction: column;
-
 }
 
 .login .form-container>form>input{
@@ -548,7 +535,6 @@ nav.nav-mobile {
     .login {
         margin-top: 70px;
         height: auto;
-
     }
 
     .login .form-container{

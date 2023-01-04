@@ -63,5 +63,4 @@ menu.addEventListener('click', () => {
         submenu.style.display = 'none';
         is_open = 0;
     }
-
 });
